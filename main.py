@@ -1,16 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+ЗАДАНИЕ 19.7.2 (HW-04)
+1. Найти методы, которые ещё не реализованы в библиотеке, и написать их реализацию в файле api.py.
+2. Написать ещё 10 различных тестов для данного REST API интерфейса. 
